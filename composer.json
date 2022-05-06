@@ -1,0 +1,21 @@
+{
+    "name": "tsemily/cookies",
+    "version": "1.0.0",
+    "description": "Simple class for manager cookies with data filter",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tsemily\\Cookies\\": "src/autoload.php"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emily Silva",
+            "email": "theemilysilva@outlook.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}

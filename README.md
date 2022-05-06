@@ -1,2 +1,2 @@
 # Cookies
-Simple class for manager cookies with data filter
+ Simple class for manager cookies with data filter
